@@ -1,22 +1,8 @@
+var age = 45
+var weight = 172.54
 
-var age = 15
+5 / 8
 
-if age != 15 {
-    print("We are the same age")
-}
+age * Int(weight)
 
-var name = "Darrell"
 
-if name == "Nick" {
-    print("We have the same name!")
-} else {
-    print("We don't have the same name :(")
-}
-
-var favoriteShow = "Sanford and Son"
-
-if favoriteShow == "Good Times" {
-    print("We don't have the same favorite show")
-} else {
-    print("We have the same favorite show!")
-}
