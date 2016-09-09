@@ -3,7 +3,7 @@
 //  Swift App
 //
 //  Created by Darrell Bullock on 9/9/16.
-//  Copyright © 2016 Darrell Bullock. All rights reserved.
+//  Copyright © 2016 Darrell Bullock. All rights reserved..
 //
 
 import UIKit
